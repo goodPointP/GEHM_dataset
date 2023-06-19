@@ -1,6 +1,6 @@
 # GEHM_dataset
 
-This repo contains the code used to produce the GEHM dataset. It was ran using Google Colab, on varying server requirement configurations (specified within the notebooks).
+This repo contains the code used to produce the GEHM dataset. It was ran using [Google Colab](https://colab.research.google.com "Google Colab homepage"), on varying server requirement configurations (specified within the notebooks).
 
 The user needs to specify target source video and audio destination(s) on Google Drive, which automatically attaches to the runtime after running the notebooks.
 
